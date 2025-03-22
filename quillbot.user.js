@@ -43,6 +43,6 @@
 
     // Redirect when the text is clicked
     linkText.addEventListener('click', () => {
-        window.location.href = 'https://binod.rf.gd';
+        window.location.href = 'https://binod-rijal.com.np/';
     });
 })();
